@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "pregunta": "Nombre Candidato",
+    "prompt": "Cual es el nombre completo del candidato"
+  },  
+  {
+    "id": 2,
+    "pregunta": "Email",
+    "prompt": "Cual es el Email del candidato, recuerda que este debe contener el simbolo de @, un nombre de dominio y la extension del dominio esta precidida por el simbolo del punto (.), a continuacion se te presentan solo algunos ejemplos de correos electronicos johndoe@gmail.com, alice.smith@company.org, ser123@example.net"
+  },
+  {
+    "id": 3,
+    "pregunta": "Telefono",
+    "prompt": "Cual es el numero de telefono del candidato?"
+  },  
+  {
+    "id": 4,
+    "pregunta": "Anos de experiencia",
+    "prompt": "Realiza una verificacion completa de la experiencia profesional o laboral que ha tenido el candidato y realiza el calculo del total de años de experiencia que el candidato tiene y response solo cuantos años de experiencia tiene"
+  },
+  {
+    "id": 5,
+    "pregunta": "Formacion IA",
+    "prompt": "Revisa muy bien la hoja de vida del candidato  e identifica si este tiene formacion en inteligencia artificial, en caso de tener Responde SI y en caso de no tener responde NO y el Score debe ser cero"
+}
+]

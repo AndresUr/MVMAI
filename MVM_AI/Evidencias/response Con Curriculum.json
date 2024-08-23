@@ -1,0 +1,24 @@
+{
+    "CandidateInfo": {
+        "Nombre Candidato": {
+            "response": "CARLOS ANDRES URREA MORENO",
+            "score": "100%"
+        },
+        "Email": {
+            "response": "ing.carlos.urrea.m@gmail.com",
+            "score": "100%"
+        },
+        "Telefono": {
+            "response": "3208990199 - 3006056724",
+            "score": "100%"
+        },
+        "Anos de experiencia": {
+            "response": "6 años",
+            "score": "100%"
+        },
+        "Formacion IA": {
+            "response": "SI",
+            "score": "100%"
+        }
+    }
+}

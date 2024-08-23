@@ -1,0 +1,24 @@
+{
+    "CandidateInfo": {
+        "Nombre Candidato": {
+            "response": "Null",
+            "score": "0%"
+        },
+        "Email": {
+            "response": "Null",
+            "score": "0%"
+        },
+        "Telefono": {
+            "response": "Null",
+            "score": "0%"
+        },
+        "Anos de experiencia": {
+            "response": "Null",
+            "score": "0%"
+        },
+        "Formacion IA": {
+            "response": "NO",
+            "score": "0%"
+        }
+    }
+}
